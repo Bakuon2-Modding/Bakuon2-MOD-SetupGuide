@@ -161,7 +161,7 @@ MODが正しく読み込まれたかどうかは、ログファイル (`BepInEx/
   
 - [プライベートサーバーMOD](https://github.com/Bakuon2-Modding/BakuonPrivateServerMod)
 
-    サーバーを構築し、オンラインプレイを可能にします
+    オンラインプレイを可能にします。別途、サーバーを用意する必要があります。
 
 ---
 
