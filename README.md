@@ -195,9 +195,3 @@ MODが正しく読み込まれたかどうかは、ログファイル (`BepInEx/
 
 ---
 
-
-## お問い合わせ
-
-MODに関するお問い合わせは以下までお願いします。
-
- [truewide0129@gmail.com](mailto:truewide0129@gmail.com)
