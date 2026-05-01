@@ -153,18 +153,6 @@ MODが正しく読み込まれたかどうかは、ログファイル (`BepInEx/
 
 ---
 
-## MOD配布について
-
-- [オフライン化パッチ](https://github.com/Bakuon2-Modding/Bakuon2OfflinePatch)
-
-    オフライン化して起動することができます。
-  
-- [プライベートサーバーMOD](https://github.com/Bakuon2-Modding/BakuonPrivateServerMod)
-
-    オンラインプレイを可能にします。別途、サーバーを用意する必要があります。
-
----
-
 ## アンインストール方法
 
 ### BepInEx を完全に削除する場合
